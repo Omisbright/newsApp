@@ -1,0 +1,41 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/BentonSans Black.otf",
+      "sha1": "10dde8cc309a9d58434440677e2c9295e970c413"
+    },
+    {
+      "path": "src/assets/fonts/BentonSans Bold.otf",
+      "sha1": "9581db913868b1266f9a9bee9928012fc2d855bf"
+    },
+    {
+      "path": "src/assets/fonts/BentonSans Book.otf",
+      "sha1": "e76ad790c99aed4648f1790aec0bdee66949cca5"
+    },
+    {
+      "path": "src/assets/fonts/BentonSans Medium.otf",
+      "sha1": "b1f1ebf2664b3c8d629585f3b9bddc8c7a4cd846"
+    },
+    {
+      "path": "src/assets/fonts/BentonSans Regular.otf",
+      "sha1": "30af182ebe647f450c7db739f426419b437476df"
+    },
+    {
+      "path": "src/assets/fonts/FontsFree-Net-SFProText-Regular.ttf",
+      "sha1": "b4893462f2289df6978f9462a63db9e64bcc9342"
+    },
+    {
+      "path": "src/assets/fonts/FontsFree-Net-SFProText-Semibold.ttf",
+      "sha1": "9560ae412d73c7c9af72333db50464b4e597b0f9"
+    },
+    {
+      "path": "src/assets/fonts/Gilroy-ExtraBold.otf",
+      "sha1": "ebd136c81542a067830d5852b785d069403c4a15"
+    },
+    {
+      "path": "src/assets/fonts/Gilroy-Light.otf",
+      "sha1": "78410fd9e800f48e3ffa140497ba2d65ac169d22"
+    }
+  ]
+}

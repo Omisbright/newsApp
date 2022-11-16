@@ -49,7 +49,19 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
-  <key>UIStatusBarStyle</key>
-  <string>UIStatusBarStyleDefault</string>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleDefault</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>BentonSans Black.otf</string>
+		<string>BentonSans Bold.otf</string>
+		<string>BentonSans Book.otf</string>
+		<string>BentonSans Medium.otf</string>
+		<string>BentonSans Regular.otf</string>
+		<string>Gilroy-ExtraBold.otf</string>
+		<string>Gilroy-Light.otf</string>
+		<string>FontsFree-Net-SFProText-Regular.ttf</string>
+		<string>FontsFree-Net-SFProText-Semibold.ttf</string>
+	</array>
 </dict>
 </plist>
